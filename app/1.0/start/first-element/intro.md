@@ -1,4 +1,4 @@
----
+﻿---
 title: "Step 1: Set up"
 subtitle: "Build your first Polymer element"
 ---
@@ -85,7 +85,7 @@ Install the Polymer CLI to serve the demo locally.
 
 To run the element demo:
 
-1.  Run `polymer serve` from the repo directory:
+1.  Run `polymer serve` from the project folder:
 
         polymer serve
 
